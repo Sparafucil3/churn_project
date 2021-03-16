@@ -25,8 +25,8 @@ Throughout this project I used articles and resources from several blog posts al
 
 The original dataset was taken from <a href="https://www.kaggle.com/radmirzosimov/telecom-users-dataset">Telecom users dataset</a> available on Kaggle. 
 
-
 <h4>Chosing a model</h4>
+
 * <a href='https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a'>All Machine Learning Models Explained in 6 Minutes</a>: This article served as a primer for determining which models to chose. This blog is available on towards data science.
 
 * <a href='https://towardsdatascience.com/which-machine-learning-model-to-use-db5fdf37f3dd'>Which machine learning model to use?</a>: Another nice article on chosing models to suit the purpose.
