@@ -34,4 +34,5 @@ The original dataset was taken from <a href="https://www.kaggle.com/radmirzosimo
 * <a href='https://machinelearningmastery.com/types-of-classification-in-machine-learning/'>4 Types of Classification Tasks in Machine Learning</a>: In addition to describing Classification, this article also describes which models are best fit for the differing Classification needs.
 
 <h4>Understanding Model Performance</h4>
+
 * <a href='https://towardsdatascience.com/understanding-the-confusion-matrix-and-how-to-implement-it-in-python-319202e0fe4d'>Understanding the Confusion Matrix and How to Implement it in Python</a>: This article serves as a good primer on how to read and draw conclusions from a Confusion Matrix. In addition, I use an image taken from that article to help readers understand what they are seeing. 
