@@ -22,12 +22,14 @@ There is only one file in the project labeled churn_project.ipynb. This file con
 Throughout this project I used articles and resources from several blog posts all available on-line. Those articles which provided the most help are specifically highlighted below. These articles are called out in the churn file where appropriate as well as reproduced here. This is not an exhastive list and there are links to additional information provided for in the churn_project notebook. 
 
 <h4>Data</h4>
-* The original dataset was taken from <a href="https://www.kaggle.com/radmirzosimov/telecom-users-dataset">Telecom users dataset</a> available on Kaggle.
+The original dataset was taken from <a href="https://www.kaggle.com/radmirzosimov/telecom-users-dataset">Telecom users dataset</a> available on Kaggle.
 
 
 <h4>Chosing a model</h4>
-* <a href='https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a'>All Machine Learning Models Explained in 6 Minutes</a>: This article served as a primer for determining which models to chose. This blog is available on towards data science. 
-* <a href='https://towardsdatascience.com/which-machine-learning-model-to-use-db5fdf37f3dd'>Which machine learning model to use?</a>: Another nice article on chosing models to suit the purpose. 
+* <a href='https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a'>All Machine Learning Models Explained in 6 Minutes</a>: This article served as a primer for determining which models to chose. This blog is available on towards data science.
+
+* <a href='https://towardsdatascience.com/which-machine-learning-model-to-use-db5fdf37f3dd'>Which machine learning model to use?</a>: Another nice article on chosing models to suit the purpose.
+
 * <a href='https://machinelearningmastery.com/types-of-classification-in-machine-learning/'>4 Types of Classification Tasks in Machine Learning</a>: In addition to describing Classification, this article also describes which models are best fit for the differing Classification needs.
 
 <h4>Understanding Model Performance</h4>
