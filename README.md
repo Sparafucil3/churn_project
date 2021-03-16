@@ -22,7 +22,7 @@ There is only one file in the project labeled churn_project.ipynb. This file con
 Throughout this project I used articles and resources from several blog posts all available on-line. Those articles which provided the most help are specifically highlighted below. These articles are called out in the churn file where appropriate as well as reproduced here. This is not an exhastive list and there are links to additional information provided for in the churn_project notebook. 
 
 <h4>Data</h4>
-The original dataset was taken from <a href="https://www.kaggle.com/radmirzosimov/telecom-users-dataset">Telecom users dataset</a> available on Kaggle.
+The original dataset was taken from <a href="https://www.kaggle.com/radmirzosimov/telecom-users-dataset">Telecom users dataset</a> available on Kaggle. 
 
 
 <h4>Chosing a model</h4>
