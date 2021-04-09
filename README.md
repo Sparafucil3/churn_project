@@ -1,5 +1,5 @@
 # churn_project
-<h1>Udacity project.</h1>
+<h1>Udacity project</h1>
 
 The medium article to go along with this sumbmission is here: https://james-r-bishop.medium.com/introduction-to-machine-learning-a-beginners-take-1b1a663ab68f
 
